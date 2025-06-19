@@ -7,7 +7,7 @@ try:
     receiver_mail = input("Enter your mail:")
     ##mail credentials
     sender_email = "palaktailor07@gmail.com"
-    password =  "bfya mutn omcq iwmv"
+    password = "bfya mutn omcq iwmv"
  
    #login
     server.login(sender_email,password)
