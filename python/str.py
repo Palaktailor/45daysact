@@ -1,4 +1,6 @@
-name = "palakjaya"
+# name = "palakjaya"
+def hello():
+    print("hello")
 # print(name.endswith("me"))
 # print(name.upper())
 # print(name.lower())
@@ -18,7 +20,8 @@ name = "palakjaya"
 # print(name[1:-1])
 # text = "my name is\"jai\""
 # print(text)
-str = "r,l,p,d,f"
-str.count("r")
+# str = "r,l,p,d,f"
+# str.count("r")
+
 
 
